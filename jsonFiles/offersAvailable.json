@@ -1,0 +1,17 @@
+{
+	"offersData":
+		[
+			{ "brand": "apple-iphone-5s", "offer": "Flat Rs. 2500 Off", "now": 4000,"url": "image/phones/apple-iphone-5s-original-imadpppc54zfpj9c.jpeg"},
+			{ "brand": "apple-iphone-6", "offer": "Flat Rs. 1500 Off", "now": 4000, "url": "image/phones/apple-iphone-6-original-imaeymdqs5gm5xkz.jpeg"},
+			{ "brand": "lenovo-k6-power", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/lenovo-k6-power-k33a42-original-imaezt6hgqdccrjm.jpeg"},
+			{ "brand": "lenovo-vibe-k5-note", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/lenovo-vibe-k5-note-pa330116in-pa330114in-original-imaepc2f67y38ydn.jpeg"},
+			{ "brand": "motorola-moto-g5-plus", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/motorola-moto-g5-plus-xt-1686-original-imaes3bzhs4thksp.jpeg"},
+			{ "brand": "samsung-galaxy-on-nxt", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/samsung-galaxy-on-nxt-sm-g610fzdgins-original-imaenkzvmnyf7sby.jpeg"},
+			{ "brand": "samsung-galaxy-j5", "offer": "Flat Rs. 2500 Off", "now":4000, "url": "image/phones/samsung-galaxy-j5-2016-sm-j510fzwuins-original-imaeg8cyzupzrkcc.jpeg"},
+			{ "brand": "samsung-galaxy-on7", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/samsung-galaxy-on7-sm-g600f-original-imaecqkgfgtmaw2y.jpeg"},
+			{ "brand": "samsung-galaxy-on8", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/samsung-galaxy-on8-na-original-imaemrwgsuxcubqh.jpeg"},
+			{ "brand": "swipe-elite-power", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/swipe-elite-power-original-imaeq3puwdrvxpgz.jpeg"},
+			{ "brand": "xolo-era-2x-2gb", "offer": "Flat Rs. 2500 Off", "now": 4000, "url": "image/phones/xolo-era-2x-2gb-original-imaeq3m2zgck2y9q.jpeg"}
+			
+		]		
+}

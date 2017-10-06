@@ -1,0 +1,11 @@
+{
+	"recordData":
+		[
+			{ "city": "Delhi", "price": "Regular", "url": "image/a.jpg" ,"name": "Regular","gender":1,"salary":50000},
+			{ "city": "Mumbai", "price": "Chocolate" , "url": "Regular","name": "Regular","gender":2,"salary":500000},
+			{ "city": "Delhi", "price": "Regular", "url": "image/a.jpg" ,"name": "Regular","gender":1,"salary":50000},
+			{ "city": "Mumbai", "price": "Chocolate" , "url": "Regular","name": "Regular","gender":2,"salary":500000},
+			{ "city": "Noida", "price": "Blueberry" , "url": "Regular","name": "Regular","gender":1,"salary":28650}
+			
+		]		
+}

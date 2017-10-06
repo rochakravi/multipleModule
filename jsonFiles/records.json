@@ -1,0 +1,21 @@
+{
+	"batter":
+		[
+			{ "id": "1001", "type": "Regular", "url": "Regular"  },
+			{ "id": "1002", "type": "Chocolate" , "url": "Regular"},
+			{ "id": "1003", "type": "Chocolate" , "url": "Regular"},
+			{ "id": "1004", "type": "Classic Regular" , "url": "Regular" },
+			{ "id": "1005", "type": "Dark Chocolate" , "url": "Regular"},
+			{ "id": "1006", "type": "berry" , "url": "Regular" },
+			{ "id": "1007", "type": "Regular", "url": "Regular"  },
+			{ "id": "1008", "type": "Chocolate" , "url": "Regular"},
+			{ "id": "1009", "type": "Blueberry" , "url": "Regular"},
+			{ "id": "1010", "type": "Classic Regular" , "url": "Regular" },
+			{ "id": "1011", "type": "Dark Chocolate" , "url": "Regular"},
+			{ "id": "1012", "type": "berry" , "url": "Regular" },
+			{ "id": "1013", "type": "Classic Regular" , "url": "Regular" },
+			{ "id": "1014", "type": "Dark Chocolate" , "url": "Regular"},
+			{ "id": "1015", "type": "berry" , "url": "Regular" },
+			{ "id": "1016", "type": "Devil's Food" , "url": "Regular" }
+		]		
+}
